@@ -1,0 +1,7 @@
+# Ignore all .gexf files
+*.gexf
+**/*.gexf
+
+# Ignore all .csv files
+*.csv
+**/*.csv
