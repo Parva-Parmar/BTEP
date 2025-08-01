@@ -1,0 +1,12 @@
+17-4
+Experiments 
+N = 100,500,1000,5000,10000
+K = 5, 25,50,250,500
+S = [2, 3],[5, 15], [15, 20],[30, 50],[150,200]
+Total 5 graphs per each variation
+n=100 , k=5 , WS,ER,BA (10 runs for each)  total 30*4 strategies = 120
+n=500 , k=25 , WS,ER,BA (10 runs for each)  total 30*4 strategies = 120
+n=1000 , k=50 , WS,ER,BA (10 runs for each)  total 30*4 strategies = 120
+n=5000 , k=250 , WS,ER,BA (10 runs for each)  total 30*4 strategies = 120
+n=10000 , k=500, WS,ER,BA (10 runs for each)  total 30*4 strategies = 120
+Total 120*5 = 600
